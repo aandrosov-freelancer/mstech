@@ -42,4 +42,14 @@ const Map<String, String> enUS = {
   'home_premium_reset_success': 'Subscription status reset successfully.',
   'subpscription_success': 'Success 🎉',
   'subcsription_error': 'Error ❌',
+  'home_search_placeholder': 'Name or ingredients: cheese, tomato...',
+  'home_add_to_cart': 'Add to Cart',
+  'home_added_to_cart': 'Added! 🍕',
+  'home_pizzas_not_found': 'No pizzas found 🔍',
+  'home_pizzas_not_found_subtitle':
+      'Try changing search terms or resetting filters',
+  'home_filters_title': 'Ingredients:',
+  'home_premium_badge': 'PREMIUM',
+  'home_cancel': 'Cancel',
+  'home_reset_filters': 'Reset Filters',
 };

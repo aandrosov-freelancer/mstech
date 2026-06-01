@@ -42,4 +42,14 @@ const Map<String, String> ruRU = {
   'home_premium_reset_success': 'Статус подписки сброшен.',
   'subpscription_success': 'Успех 🎉',
   'subcsription_error': 'Ошибка ❌',
+  'home_search_placeholder': 'Название или ингредиенты: сыр, томаты...',
+  'home_add_to_cart': 'В корзину',
+  'home_added_to_cart': 'Добавлено! 🍕',
+  'home_pizzas_not_found': 'Пиццы не найдены 🔍',
+  'home_pizzas_not_found_subtitle':
+      'Попробуйте изменить поисковый запрос или сбросить фильтры',
+  'home_filters_title': 'Ингредиенты:',
+  'home_premium_badge': 'PREMIUM',
+  'home_cancel': 'Отмена',
+  'home_reset_filters': 'Сбросить фильтры',
 };
