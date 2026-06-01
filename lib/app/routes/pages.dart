@@ -4,6 +4,8 @@ import '../modules/onboarding/binding.dart';
 import '../modules/onboarding/page.dart';
 import '../modules/home/binding.dart';
 import '../modules/home/page.dart';
+import '../modules/paywall/binding.dart';
+import '../modules/paywall/page.dart';
 
 abstract class AppPages {
   AppPages._();
@@ -18,6 +20,11 @@ abstract class AppPages {
       name: AppRoutes.home,
       page: () => const HomePage(),
       binding: HomeBinding(),
+    ),
+    GetPage(
+      name: AppRoutes.paywall,
+      page: () => const PaywallPage(),
+      binding: PaywallBinding(),
     ),
   ];
 }
